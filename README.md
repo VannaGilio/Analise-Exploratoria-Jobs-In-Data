@@ -1,6 +1,5 @@
 # ANÁLISE DO MERCADO DE DATA ANALYST (2020 - 2023)
 #### Projeto de Extensão Universitária
----
 #### | Projeto de Extensão desenvolvido no Centro Universitário UniSENAI campus de Santo Amaro, no curso de Inteligência e Análise de Dados. 
 ---
 ### OBJETIVO: 
