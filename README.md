@@ -3,7 +3,8 @@
 ---
 #### | Projeto de Extensão desenvolvido no Centro Universitário UniSENAI campus de Santo Amaro, no curso de Inteligência e Análise de Dados. 
 ---
-### OBJETIVO: Com o fim de praticar e estudar os conceitos de análise exploratória como inspeção de qualidade dos dados, verificação e mudança de tipos de dados, gráficos para análise visual do projeto e insights gerados a partir de discussões com a turma.
+### OBJETIVO: 
+#### Com o fim de praticar e estudar os conceitos de análise exploratória como inspeção de qualidade dos dados, verificação e mudança de tipos de dados, gráficos para análise visual do projeto e insights gerados a partir de discussões com a turma.
 ---
 ### SOBRE A ANÁLISE:
 #### Este trabalho tem como objetivo analisar o comportamento do mercado de trabalho para o cargo de Data Analyst entre os anos de 2020 e 2023, utilizando um dataset público da plataforma Kaggle. A análise busca identificar padrões salariais, tendências de crescimento, distribuição geográfica e características das empresas que mais contratam esse perfil profissional.
